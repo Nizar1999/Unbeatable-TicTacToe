@@ -8,7 +8,7 @@
 
  Yet another TicTacToe clone made in Unity.
  
- Features 3 difficulty modes, including Impossible (By Implementing a MiniMax Algorithm)
+ Features 3 difficulty modes: easy, medium, including Impossible (By Implementing a MiniMax Algorithm)
  
  Art made in Aseprite.
  
