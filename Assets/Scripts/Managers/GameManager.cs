@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Tilemaps;
 
-public class GameMode : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     [SerializeField] GameObject diffWarning;
     [SerializeField] Button diffButton;
